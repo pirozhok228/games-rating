@@ -1,0 +1,15 @@
+{
+  "name": "ya_project",
+  "version": "1.0.0",
+  "description": "Проект для яндекс практикума",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "pirozhok",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
